@@ -1,5 +1,5 @@
 ## Deployment
-Read the [Docs](https://levina.gitbook.io/videostreambot/deployment/requirements) for Detailed Information and Setup Guide on deploying Bot.
+Hubungi [LordMuda ID](https://t.me/LordMuda_ID) for Detailed Information and Setup Guide on deploying Bot.
 
 > Click on buttons to Expand!
 <details>
